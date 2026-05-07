@@ -24,3 +24,6 @@ section{
     width: 30%;
     margin: auto;
 }
+a{
+    text-decoration: none;
+}
