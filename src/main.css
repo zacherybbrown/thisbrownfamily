@@ -30,3 +30,8 @@ a{
     text-decoration: none;
     color: white;
 }
+img{
+    border: #ffffff solid 1px;
+    border-width: 0.1cm 0.1cm 0.1cm 0.1cm;
+    border-radius: 0.5cm 0.5cm 0.5cm 0.5cm;
+}
