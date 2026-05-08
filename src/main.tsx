@@ -13,7 +13,8 @@ createRoot(document.getElementById('root')!).render(
     <br></br>
     <br></br>
     <h2 id="projects">Our projects:</h2>
-    <a href="https://github.com/zacfloor/flappygrant.com"><img src="https://opengraph.githubassets.com/2a42b835cfc9471acadf68bc5df5ef91c3390a9341e45241c2634a19cd763074/zacfloor/flappygrant.com" width={360}></img></a>
-    
+    <p>
+      <a href="https://github.com/zacfloor/flappygrant.com"><img src="https://opengraph.githubassets.com/2a42b835cfc9471acadf68bc5df5ef91c3390a9341e45241c2634a19cd763074/zacfloor/flappygrant.com" width={360}></img></a>
+    </p>
   </StrictMode>,
 )
