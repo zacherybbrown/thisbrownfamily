@@ -15,6 +15,7 @@ h1{
     border-radius: 1cm 1cm 1cm 1cm;
     width: 80%;
     margin: auto;
+    background-color: rgb(136, 92, 72);
 }
 section{
     justify-content: center;
