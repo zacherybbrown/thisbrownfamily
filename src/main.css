@@ -1,5 +1,6 @@
 :root{
-    background-color: var(--secondary);
+    background: #7d4c0c;
+    background: linear-gradient(90deg, rgba(125, 76, 12, 1) 0%, rgba(199, 135, 58, 1) 100%);
     color: var(--primary);
     --primary: #ffffff;
     --secondary: #331700;
