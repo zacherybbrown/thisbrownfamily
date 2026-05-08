@@ -16,6 +16,7 @@ createRoot(document.getElementById('root')!).render(
     <p>
       <a href="https://github.com/zacfloor/flappygrant.com"><img src="https://opengraph.githubassets.com/2a42b835cfc9471acadf68bc5df5ef91c3390a9341e45241c2634a19cd763074/zacfloor/flappygrant.com" height={360}></img></a>
       <a href="https://www.youtube.com/@8BitZac"><img src="https://raw.githubusercontent.com/zacherybbrown/brownfamassetspublic/refs/heads/main/Screenshot%202026-05-07%20184338.png" height={360}></img></a>
+      <a href="https://www.8bitzac.com"><img src="https://raw.githubusercontent.com/zacherybbrown/brownfamassetspublic/refs/heads/main/image.png" height={360}></img></a>
     </p>
   </StrictMode>,
 )
